@@ -13,10 +13,14 @@ C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL e PostgreSQL.
 
 English:
 👋 Hi! My name is Rafael, I'm 24 years old and I'm from the countryside of São Paulo, Brazil.
+
 🏀 Former basketball player with over 10 years of experience — the sport allowed me to live in 7 different Brazilian cities and spend 2 years in Argentina, where I also learned Spanish.
+
 💻 I'm currently transitioning into the tech field. I'm studying Systems Analysis and Development (online - IBMR) and constantly improving my skills through courses on DIO and Udemy.
+
 🚀 I've worked with several technologies, including:
 C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL and PostgreSQL.
 
 📍 I currently live in Santa Rosa de Viterbo-SP and have full availability for new opportunities in tech.
+
 🌟 I'm a fast learner, positive-minded, and truly believe in the power of teamwork. I feel comfortable leading and inspiring those around me.
