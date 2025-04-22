@@ -1,10 +1,14 @@
 👋 Olá! Me chamo Rafael, tenho 24 anos e venho do interior de São Paulo.
+
 🏀 Ex-atleta de basquete com mais de 10 anos de experiência, o esporte me levou a viver em 7 cidades brasileiras e 2 anos na Argentina — onde também aprendi espanhol.
+
 💻 Atualmente estou em transição de carreira para a área de tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas (EAD - IBMR) e estou sempre me atualizando com cursos na DIO e Udemy.
+
 🚀 Já tive contato com várias tecnologias, incluindo:
 C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL e PostgreSQL.
 
 📍 Moro em Santa Rosa de Viterbo-SP e tenho total disponibilidade para novos desafios na área.
+
 🌟 Tenho facilidade em aprender, sou alto astral e acredito na força do trabalho em equipe. Me sinto confortável liderando e motivando pessoas
 
 English:
