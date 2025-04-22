@@ -12,6 +12,7 @@ C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL e PostgreSQL.
 🌟 Tenho facilidade em aprender, sou alto astral e acredito na força do trabalho em equipe. Me sinto confortável liderando e motivando pessoas
 
 English:
+
 👋 Hi! My name is Rafael, I'm 24 years old and I'm from the countryside of São Paulo, Brazil.
 
 🏀 Former basketball player with over 10 years of experience — the sport allowed me to live in 7 different Brazilian cities and spend 2 years in Argentina, where I also learned Spanish.
