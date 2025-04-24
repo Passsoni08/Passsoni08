@@ -4,7 +4,7 @@
 
 💻 Atualmente estou em transição de carreira para a área de tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas (EAD - IBMR) e estou sempre me atualizando com cursos na DIO e Udemy.
 
-🚀 Já tive contato com várias tecnologias, incluindo:
+🚀 Já tive contato com várias tecnologias na área acadêmica, incluindo:
 C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL e PostgreSQL.
 
 📍 Moro em Santa Rosa de Viterbo-SP e tenho total disponibilidade para novos desafios na área.
@@ -19,7 +19,7 @@ English:
 
 💻 I'm currently transitioning into the tech field. I'm studying Systems Analysis and Development (online - IBMR) and constantly improving my skills through courses on DIO and Udemy.
 
-🚀 I've worked with several technologies, including:
+🚀 I've worked with several technologies at the University, including:
 C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL and PostgreSQL.
 
 📍 I currently live in Santa Rosa de Viterbo-SP and have full availability for new opportunities in tech.
