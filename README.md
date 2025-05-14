@@ -1,27 +1,55 @@
-👋 Olá! Me chamo Rafael, tenho 24 anos e venho do interior de São Paulo.
 
-🏀 Ex-atleta de basquete com mais de 10 anos de experiência, o esporte me levou a viver em 7 cidades brasileiras e 2 anos na Argentina — onde também aprendi espanhol.
+# 👋 Olá! Me chamo Rafael
 
-💻 Atualmente estou em transição de carreira para a área de tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas (EAD - IBMR) e estou sempre me atualizando com cursos na DIO e Udemy.
+Tenho 24 anos, sou do interior de São Paulo e atualmente estou em transição de carreira para a área de tecnologia.
 
-🚀 Já tive contato com várias tecnologias na área acadêmica, incluindo:
-C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL e PostgreSQL.
+## 🏀 Um pouco sobre mim
 
-📍 Moro em Santa Rosa de Viterbo-SP e tenho total disponibilidade para novos desafios na área.
+Ex-atleta de basquete com mais de 10 anos de experiência. O esporte me levou a viver em 7 cidades brasileiras e a passar 2 anos na Argentina — onde também aprendi espanhol 🇦🇷.
 
-🌟 Tenho facilidade em aprender, sou alto astral e acredito na força do trabalho em equipe. Me sinto confortável liderando e motivando pessoas
+## 💻 Minha jornada na tecnologia
 
-English:
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (EAD - IBMR) e estou sempre buscando evolução por meio de cursos e projetos práticos.  
+Estudo frequentemente pela **DIO** e **Udemy**.
 
-👋 Hi! My name is Rafael, I'm 24 years old and I'm from the countryside of São Paulo, Brazil.
+### 🧪 Tecnologias com as quais já tive contato:
 
-🏀 Former basketball player with over 10 years of experience — the sport allowed me to live in 7 different Brazilian cities and spend 2 years in Argentina, where I also learned Spanish.
+- `Python`, `Java`, `JavaScript`, `PHP`
+- `HTML`, `CSS`, `Bootstrap`
+- `MySQL`, `PostgreSQL`
 
-💻 I'm currently transitioning into the tech field. I'm studying Systems Analysis and Development (online - IBMR) and constantly improving my skills through courses on DIO and Udemy.
+## 🚀 Em busca de oportunidades
 
-🚀 I've worked with several technologies at the University, including:
-C, HTML, CSS, Java, JavaScript, Bootstrap, Python, PHP, MySQL and PostgreSQL.
+Moro em **Santa Rosa de Viterbo-SP** e tenho total disponibilidade para novos desafios.  
+Sou curioso, focado em resultados e acredito no poder do trabalho em equipe.  
+Tenho facilidade em liderar, comunicar ideias e motivar quem está ao meu redor.
 
-📍 I currently live in Santa Rosa de Viterbo-SP and have full availability for new opportunities in tech.
+---
 
-🌟 I'm a fast learner, positive-minded, and truly believe in the power of teamwork. I feel comfortable leading and inspiring those around me.
+## 🌎 English Version
+
+### Hi, I'm Rafael — welcome to my GitHub!
+
+I'm 24 years old and from the countryside of São Paulo, Brazil. I'm currently transitioning into the **tech industry**.
+
+### 🏀 My background
+
+Former basketball player with 10+ years of experience. Sports gave me the opportunity to live in 7 Brazilian cities and spend 2 years in Argentina, where I also learned Spanish 🇦🇷.
+
+### 💻 Tech journey
+
+I’m currently studying **Systems Analysis and Development** (remote - IBMR) and complementing my education through platforms like **DIO** and **Udemy**.
+
+#### Technologies I’ve worked with:
+
+- `Python`, `Java`, `JavaScript`, `PHP`
+- `HTML`, `CSS`, `Bootstrap`
+- `MySQL`, `PostgreSQL`
+
+### 🚀 Open to new opportunities
+
+I live in **Santa Rosa de Viterbo-SP** and I'm fully available for new tech challenges.  
+Fast learner, team player, and always ready to take the lead and bring positive energy to any environment.
+
+
+
