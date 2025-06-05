@@ -12,9 +12,9 @@ Ex-atleta de basquete com mais de 10 anos de experiência. O esporte me levou a 
 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (EAD - IBMR) e estou sempre buscando evolução por meio de cursos e projetos práticos.  
 Estudo frequentemente pela **DIO** e **Udemy**.
 
-### 🧪 Tecnologias com as quais já tive contato:
+### 🧪 Tecnologias:
 
-- `Python`, `Java`, `JavaScript`, `PHP`
+- `Python`, `Java`, `JavaScript`,
 - `HTML`, `CSS`, `Bootstrap`
 - `MySQL`, `PostgreSQL`
 
