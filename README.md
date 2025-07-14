@@ -14,7 +14,7 @@ Estudo frequentemente pela **DIO** e **Udemy**.
 
 ### 🧪 Tecnologias:
 
-- `Python`, `Node.js`, `JavaScript`,
+- `Python`, `Node.js`, `JavaScript`, `TypeScript`,
 - `HTML`, `CSS`, `Bootstrap`
 - `MySQL`, `PostgreSQL`
 
