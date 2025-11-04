@@ -5,7 +5,7 @@ Tenho 24 anos, sou do interior de São Paulo e atualmente estou em transição d
 
 ## 🏀 Um pouco sobre mim
 
-Ex-atleta de basquete com mais de 10 anos de experiência. O esporte me levou a viver em 7 cidades brasileiras e a passar 2 anos na Argentina — onde também aprendi espanhol 🇦🇷.
+Ex-atleta de basquete com mais de uma década de experiência. O esporte me levou a viver em 7 cidades brasileiras e a passar 2 anos na Argentina — onde também aprendi espanhol 🇦🇷.
 
 ## 💻 Minha jornada na tecnologia
 
@@ -14,15 +14,13 @@ Estudo frequentemente pela **DIO** e **Udemy**.
 
 ### 🧪 Tecnologias:
 
-- `Python`, `Node.js`, `JavaScript`, `TypeScript`,
-- `HTML`, `CSS`, `Bootstrap`
-- `MySQL`, `PostgreSQL`
+- `Python`, `Node.js`, `JavaScript`, `TypeScript`, `Django`
+- `HTML`, `CSS`, `Bootstrap`, `React`
+  
 
-## 🚀 Em busca de oportunidades
+## 🚀 Momento da Carrerira
 
-Moro em **Santa Rosa de Viterbo-SP** e tenho total disponibilidade para novos desafios.  
-Sou curioso, focado em resultados e acredito no poder do trabalho em equipe.  
-Tenho facilidade em liderar, comunicar ideias e motivar quem está ao meu redor.
+Atualmente estou estagiando no setor de Análise e Desenvolvimento de Sistemas da empresa Chiaperini.
 
 ---
 
@@ -34,7 +32,7 @@ I'm 24 years old and from the countryside of São Paulo, Brazil. I'm currently t
 
 ### 🏀 My background
 
-Former basketball player with 10+ years of experience. Sports gave me the opportunity to live in 7 Brazilian cities and spend 2 years in Argentina, where I also learned Spanish 🇦🇷.
+Former basketball player with over a decade of experience. Sports gave me the opportunity to live in 7 Brazilian cities and spend 2 years in Argentina, where I also learned Spanish 🇦🇷.
 
 ### 💻 Tech journey
 
@@ -42,14 +40,12 @@ I’m currently studying **Systems Analysis and Development** (remote - IBMR) an
 
 #### Technologies I’ve worked with:
 
-- `Python`, `Java`, `JavaScript`, `PHP`
-- `HTML`, `CSS`, `Bootstrap`
-- `MySQL`, `PostgreSQL`
+- `Python`, `Node.js`, `JavaScript`, `TypeScript`, `Django`
+- `HTML`, `CSS`, `Bootstrap`, `React`
 
 ### 🚀 Open to new opportunities
 
-I live in **Santa Rosa de Viterbo-SP** and I'm fully available for new tech challenges.  
-Fast learner, team player, and always ready to take the lead and bring positive energy to any environment.
+I am currently interning in the systems analysis and development department at the company Chiaperini.
 
 
 
