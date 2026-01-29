@@ -1,7 +1,7 @@
 
 # 👋 Olá! Me chamo Rafael
 
-Tenho 24 anos, sou do interior de São Paulo e atualmente estou em transição de carreira para a área de tecnologia.
+Tenho 25 anos, sou do interior de São Paulo e atualmente estou em transição de carreira para a área de tecnologia.
 
 ## 🏀 Um pouco sobre mim
 
@@ -9,43 +9,47 @@ Ex-atleta de basquete com mais de uma década de experiência. O esporte me levo
 
 ## 💻 Minha jornada na tecnologia
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (EAD - IBMR) e estou sempre buscando evolução por meio de cursos e projetos práticos.  
-Estudo frequentemente pela **DIO** e **Udemy**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** (EAD - IBMR) e estou sempre buscando evolução por meio de cursos e projetos práticos.  
+Estudo frequentemente pela **PyCodeBR**, **além de projetos pessoais**.
 
 ### 🧪 Tecnologias:
 
 - `Python`, `Node.js`, `JavaScript`, `TypeScript`, `Django`
-- `HTML`, `CSS`, `Bootstrap`, `React`
+- `HTML`, `CSS`, `Bootstrap`
+- `React`, `Next.js`, `Shadcn`
   
 
 ## 🚀 Momento da Carrerira
 
-Atualmente estou estagiando no setor de Análise e Desenvolvimento de Sistemas da empresa Chiaperini.
+Atualmente estou trabalhando como Desenvolvedor Web Junior, no setor de Desenvolvimento de Sistemas, da empresa Chiaperini, localizada na cidade de Santa Rosa de Viterbo - São Paulo.
 
 ---
 
-## 🌎 English Version
+## **English Version**
 
-### Hi, I'm Rafael — welcome to my GitHub!
+#👋 Hi! My name is Rafael.
 
-I'm 24 years old and from the countryside of São Paulo, Brazil. I'm currently transitioning into the **tech industry**.
+I'm 25 years old, from the countryside of São Paulo, and I'm currently transitioning my career to the technology field.
 
-### 🏀 My background
+## 🏀 About Me
 
-Former basketball player with over a decade of experience. Sports gave me the opportunity to live in 7 Brazilian cities and spend 2 years in Argentina, where I also learned Spanish 🇦🇷.
+Former basketball player with over a decade of experience. The sport led me to live in 7 Brazilian cities and spend 2 years in Argentina — where I also learned Spanish 🇦🇷.
 
-### 💻 Tech journey
+## 💻 My journey in technology
 
-I’m currently studying **Systems Analysis and Development** (remote - IBMR) and complementing my education through platforms like **DIO** and **Udemy**.
+I have a degree in **Systems Analysis and Development** (Distance Learning - IBMR) and I'm always seeking improvement through courses and practical projects.
 
-#### Technologies I’ve worked with:
+I frequently study using PyCodeBR, in addition to personal projects and real life situations at work.
 
-- `Python`, `Node.js`, `JavaScript`, `TypeScript`, `Django`
-- `HTML`, `CSS`, `Bootstrap`, `React`
+### 🧪 Technologies:
 
-### 🚀 Open to new opportunities
+- `Python`, `Node.js`, `JavaScript`, `TypeScript`, `Django`,
+- `HTML`, `CSS`, `Bootstrap`,
+- `React`, `Next.js`, `Shadcn`
 
-I am currently interning in the systems analysis and development department at the company Chiaperini.
+## 🚀 Career Moment
+
+Currently, I am working as a Junior Web Developer in the Web Development sector at Chiaperini, located in Santa Rosa de Viterbo, São Paulo.
 
 
 
