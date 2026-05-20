@@ -32,6 +32,6 @@ I frequently study through **PyCodeBR**, **DIO**, **as well as personal projects
 
 ### 🧪 Technologies
 
-`Python`, `Django`, `Node.js`, `JavaScript`, `TypeScript`
-`React`, `Next.js`, `Shadcn`, `GSAP`
+`Python`, `Django`, `Node.js`, `JavaScript`, `FastAPI`
+`React`, `Next.js`, `Shadcn`, `GSAP`, `TypeScript`
 `Docker`, `Nginx`, `GitHub Actions`
