@@ -11,8 +11,8 @@ Estudo frequentemente pela **PyCodeBR**, **DIO**, **além de projetos pessoais e
 
 ### 🧪 Tecnologias
 
-`Python`, `Django`, `Node.js`, `JavaScript`, `TypeScript`
-`React`, `Next.js`, `Shadcn`, `GSAP`
+`Python`, `Django`, `Node.js`, `JavaScript`, `FastAPI`
+`React`, `Next.js`, `Shadcn`, `GSAP`, `TypeScript`
 `Docker`, `Nginx`, `GitHub Actions`
 
 ---------
